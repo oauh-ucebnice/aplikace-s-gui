@@ -15,4 +15,5 @@ Učebnice pro 2. ročník oboru IT na Obchodní akademii Uherské Hradiště.
 ## Příklady k procvičování
 
 - [Cvičení: Textová pole](00600-procvicovani/00100-textova-pole.md)
+- [Cvičení: Menu, čtení souboru](00600-procvicovani/00200-soubor-menu.md)
 

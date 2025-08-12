@@ -45,5 +45,5 @@ Vytvořte aplikaci s&nbsp;grafickým uživatelským rozhraním, která bude spl�
 - Vhodně ošetřete chyby při práci se soubory a chybu zobrazte ve vyskakovacím okně.
 
 ## Vzhled aplikace
-![](00200-soubor-menu.png)
+![Vzhled aplikace](00200-soubor-menu-vysledek.png)
 
